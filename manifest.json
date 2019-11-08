@@ -1,0 +1,6 @@
+ {
+   "name": "News Extension",
+    "version": "2.0",
+    "description": "View Current news items",
+    "manifest_version": 2
+ }
